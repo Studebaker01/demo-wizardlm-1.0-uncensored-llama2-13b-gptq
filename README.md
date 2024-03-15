@@ -5,8 +5,6 @@
 This is a WizardLM-1.0-Uncensored-Llama2-13B-GPTQ starter template from [Banana.dev](https://www.banana.dev) that allows on-demand serverless GPU inference.
 
 You can fork this repository and deploy it on Banana as is, or customize it based on your own needs.
-
-
 # Running this app
 
 ## Deploying on Banana.dev
